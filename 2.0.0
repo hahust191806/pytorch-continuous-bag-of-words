@@ -1,0 +1,6 @@
+Defaulting to user installation because normal site-packages is not writeable
+Collecting portalocker
+  Using cached portalocker-2.8.2-py3-none-any.whl (17 kB)
+Requirement already satisfied: pywin32>=226 in c:\users\kieu trung ha\appdata\roaming\python\python38\site-packages (from portalocker) (306)
+Installing collected packages: portalocker
+Successfully installed portalocker-2.8.2
